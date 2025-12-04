@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "Demo script"
+echo "Demo scripts"
 apt udate
 apt install -y apache2
